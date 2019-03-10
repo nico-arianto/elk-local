@@ -1,0 +1,8 @@
+ELASTICSEARCH_BINARY=https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-$ELK_VERSION.tar.gz
+ELASTICSEARCH_MD5=f556cfb129f2b1ea426c57026f93b6d7
+
+LOGSTASH_BINARY=https://artifacts.elastic.co/downloads/logstash/logstash-$ELK_VERSION.tar.gz
+LOGSTASH_MD5=d57df3af07f9223c19d63a91c4c1d4d9
+
+KIBANA_BINARY=https://artifacts.elastic.co/downloads/kibana/kibana-$ELK_VERSION-darwin-x86_64.tar.gz
+KIBANA_MD5=64cdfa494032fd2f2fff5c061f3d6925

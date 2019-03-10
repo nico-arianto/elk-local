@@ -1,0 +1,4 @@
+DOWNLOAD_DIR=$HOME/Downloads
+APPLICATION_DIR=$HOME/Applications/opt
+APPLICATION_DATA_DIR=$HOME/Applications/var/data
+APPLICATION_LOG_DIR=$HOME/Applications/var/log
